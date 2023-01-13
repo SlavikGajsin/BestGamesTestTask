@@ -6,4 +6,5 @@ package-lock.json
 .cache
 .output
 .env
+.idea
 dist
